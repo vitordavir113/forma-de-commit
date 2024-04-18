@@ -21,7 +21,7 @@ uma maneira simples de padronização dos commits para tornar inteligível as al
 
 # Type e description 💻
 
-Para fazer commits bem estruturados dividimos o conteúdo escrito em duas partes `<type>` e `<description>`, onde type signiifca o proposito daquele commit e description e o conteudo alterado ou adicionado ao codigo.
+Para fazer commits bem estruturados dividimos o conteúdo escrito em duas partes `<type>` e `<description>`, onde type significa o proposito daquele commit e description e o conteudo alterado ou adicionado ao codigo.
 ## Tipos de type:
 
 | Prefixo |emoji | Descrição           | Significado                                    |
